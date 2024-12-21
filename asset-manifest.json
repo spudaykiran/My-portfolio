@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/my-portfolio/static/css/main.246364ca.css",
-    "main.js": "/my-portfolio/static/js/main.cc6a9b4a.js",
+    "main.js": "/my-portfolio/static/js/main.79a2e60e.js",
     "static/media/uday.jpeg": "/my-portfolio/static/media/uday.959ee9aee8429f66f0c4.jpeg",
     "static/media/logo.svg": "/my-portfolio/static/media/logo.6f693399ca57cc3778e95cc748cfda37.svg",
     "index.html": "/my-portfolio/index.html",
     "main.246364ca.css.map": "/my-portfolio/static/css/main.246364ca.css.map",
-    "main.cc6a9b4a.js.map": "/my-portfolio/static/js/main.cc6a9b4a.js.map"
+    "main.79a2e60e.js.map": "/my-portfolio/static/js/main.79a2e60e.js.map"
   },
   "entrypoints": [
     "static/css/main.246364ca.css",
-    "static/js/main.cc6a9b4a.js"
+    "static/js/main.79a2e60e.js"
   ]
 }
