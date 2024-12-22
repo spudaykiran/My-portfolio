@@ -34,7 +34,7 @@ const projects = [
     description:
       "It is a app where you split the expenses between your friends and the friend will have a profile and who is paying the bill and split according to it.",
     imageUrl: "https://rb.gy/t34408",
-    link: "https://spudaykiran.github.io/eat-n-split/",
+    link: "https://github.com/spudaykiran/eat-n-split",
   },
   {
     id: 5,
