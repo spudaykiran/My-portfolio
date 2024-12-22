@@ -9,7 +9,7 @@ import ContactMe from "./components/ContactMe";
 function App() {
   return (
     <div className="app">
-      <BrowserRouter>
+      <BrowserRouter basename="/my-portfolio">
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
