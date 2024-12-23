@@ -27,7 +27,7 @@ const projects = [
     title: "Quiz Application",
     description:
       "It is a Quiz application where you can conduct quiz for the students and a timer for the quiz for each question you can set time what ever you want.",
-    imageUrl: "https://shorturl.at/CXQQF",
+    imageUrl: "https://tinyurl.com/quiz-app-photo",
     link: "https://spudaykiran.github.io/react-quiz-own",
   },
   {
